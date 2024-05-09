@@ -1,7 +1,7 @@
 ---
-title: "Presentation title"
-subtitle: "Presentation subtitle (if any)"
-author: "Your Name"
+title: "AD Awareness"
+subtitle: "final project"
+author: "April"
 institute: "Houghton University"
 date: "`r Sys.Date()`"
 output:
@@ -43,12 +43,37 @@ style_xaringan(
 class: center, middle
 
 ## A statement of the overall goal / research question
+In this project, I am going to analyze data about Alzheimer's disease. My data of this project is from an essay about Knowledge and status of Alzheimer's disease in China in 2022. 
+
+Early prevention of Alzheimer's disease is crucial for establishing and improving health services for the elderly. I hope my analysis would be helpful.
+
+In my analysis, I will summarize and visualize these data to study the awareness of AD in China.
 
 ---
 
 class: inverse, center, middle
 
-# Section title
+# Knowledge of Alzheimer's disease in different populations
+
+---
+
+# The awareness for Alzheimer's disease between urban and rural areas
+
+---
+
+# The awareness for Alzheimer's disease among subjects with the different eduacation levels
+
+---
+
+# The awareness for Alzheimer's disease between among subjects withe the differnet regiions
+
+---
+
+# The awareness for Alzheimer;s disease among the diferent peoples
+
+---
+
+# Conclusion
 
 ---
 

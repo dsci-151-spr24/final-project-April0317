@@ -1,6 +1,6 @@
 ---
 title: Project title
-author: by your name
+author: Apeil
 output: github_document
 ---
 
@@ -37,3 +37,6 @@ If you got your data off the web, make sure to note the retrieval date.
 
 List any references here. You should, at a minimum, list your data source.
 
+```{r}
+view(AD_awarness)
+```

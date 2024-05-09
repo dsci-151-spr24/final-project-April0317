@@ -11,3 +11,7 @@ using the following format.
 - `variable2`: Description of variable 2
 - `variable3`: Description of variable 3
 - ...
+
+
+`codebook`:<https://www.alzcn.com/CN/10.3969/j.issn.2096-5516.2022.04.002/data>
+`gender`:

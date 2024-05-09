@@ -1,6 +1,6 @@
 ---
 title: "Project proposal"
-author: "Your name"
+author: "Yihan (April) Wang"
 output: github_document
 ---
 
@@ -11,13 +11,29 @@ library(broom)
 
 ## 1. Introduction
 
+In order to provide scientific evidence for the prevention and treatment of Alzheimer's Disease (AD), a survey was conducted by eleven authors, including Yong Xu, Jun Wang, Hongzheng Wang, Kuncheng Li, Huifang Wang, Xiaoming Wang, Bin Tang, Liyan Qiao, Ying Li, Peng Li, and Xin Ma.
+
+
+Early prevention of Alzheimer's disease is crucial for establishing and improving health services for the elderly. This survey, conducted online across 23 provinces, 5 autonomous regions, 4 municipalities directly under the Central Government, and 2 special administrative regions (including Hong Kong, Macao, and Taiwan), with a total sample of 20,671 respondents, aims to comprehensively understand, analyze, and address the current awareness and demand for Alzheimer's disease in China. This information is vital for the development of scientific prevention, treatment, and rehabilitation strategies. The results will assist governmental and professional institutions in formulating appropriate health measures for the elderly.
+
+The report of this survey was published in the Chinese Journal of Alzheimer's Disease and Related Disorders. It was conducted from March 1, 2022, to August 18, 2022, using the Questionnaire Star online survey application, combining both online and field surveys with multiple-choice questionnaires. Statistical methods, including the chi-square test, were employed to analyze the significance of differences in the awareness rate and composition ratio of AD among different population groups.
+
+The survey covered general information such as gender, age, occupation, education level, urban or rural residence, and region. The questionnaire addressed residents' awareness, medical treatment, and knowledge needs among the general population, as well as the needs of community doctors and patients and caregivers concerning prevention, treatment, and rehabilitation strategies for Alzheimer's disease.
+
 
 
 ## 2. Data
 
+`codebook`:<https://www.alzcn.com/CN/10.3969/j.issn.2096-5516.2022.04.002/data>
 
 
 ## 3. Data analysis plan
+
+ - This data is about a study survey about the awareness of the Chinese residents. There are couples of variables - gender, age, education, identity, etc. Depends on these, the outcome will be the percetage of the awareness among thoses people. And the predictor variables will be gender(male, female), age, region, education, etc.
+
+ - If applicable, The comparison groups can be themselves. For example, if I am analysis the data of gender, the group of male will be the comparison groups to the groups of female.
+
+ -  I will summarize and visulize these data to study the awareness of AD in China.
 
 
 
