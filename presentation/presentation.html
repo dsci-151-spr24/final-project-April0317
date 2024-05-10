@@ -67,6 +67,19 @@ class: inverse, center, middle
 # analyze with those who know about this disease.
 
 
+```r
+ggplot(data, aes(y=variable, fill= know)) +
+  geom_bar()+
+  labs(title = "analyze with those who know about this disease",
+       xlab = "know abou Alzheimer's disease",
+       ylab = "different group")+
+  theme_minimal()
+```
+
+&lt;img src="presentation_files/figure-html/unnamed-chunk-2-1.png" width="80%" /&gt;
+--
+
+
 ---
 
 # The awareness for Alzheimer's disease among subjects with the different eduacation levels
@@ -163,7 +176,7 @@ glance(model)
 - goes here
 ]
 .pull-right[
-&lt;img src="presentation_files/figure-html/unnamed-chunk-2-1.png" width="100%" /&gt;
+&lt;img src="presentation_files/figure-html/unnamed-chunk-3-1.png" width="100%" /&gt;
 ]
 
 ---
