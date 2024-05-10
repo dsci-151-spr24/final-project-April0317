@@ -105,9 +105,9 @@ include_graphics("https://www.alzcn.com/article/2022/2096-5516/274/2096-5516-5-4
 # The awareness for Alzheimer;s disease among the different peoples
 
 --
-$$\ratio(below junior high school) = 0.966$$
-$$\ratio(senior high school) = 0.943$$
-$$\ratio(above university level) = 0.966$$
+$$\ratio(below junior high school) = 0.865$$
+$$\ratio(senior high school) = 0.925$$
+$$\ratio(above university level) = 0.982$$
 
 
 ---
